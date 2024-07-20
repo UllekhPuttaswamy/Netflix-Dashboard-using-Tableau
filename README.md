@@ -40,7 +40,7 @@ This dashboard can be used for:
 
 ## Screenshot
 
-![Netflix Dashboard]("Netflix.png")
+![Netflix Dashboard]("Dashboard Image.png")
 
 
 ## Acknowledgments
