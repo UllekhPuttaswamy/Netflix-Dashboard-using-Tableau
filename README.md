@@ -3,7 +3,7 @@
 
 This repository contains a Tableau dashboard project that visualizes Netflix data, including the distribution of movies and TV shows by country, genre, rating, and year. 
 
-# To view and interact with this dashboard:
+# To view an interactive dashboard:
 
 - Ensure you have Tableau Desktop installed on your computer. You can download it from the [Tableau website](https://www.tableau.com/products/desktop).
 
